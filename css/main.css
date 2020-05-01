@@ -263,3 +263,8 @@ textarea {
   }
 }
 
+input {
+    height: 100vh;
+    width: 100vw;
+    font-size: 100vh;
+}
